@@ -17,6 +17,3 @@ competition.resultats = FileResultatDAO.chargeResultats(dossier, competition.ath
 Menu.gestionCompetition(competition);
 
 FileResultatDAO.sauveResultats(dossier, competition.resultats);
-
-let test = Menu.choixCompétition("test", new Date(2022, 8, 17), new Date(2022, 8, 18))
-console.log(test)

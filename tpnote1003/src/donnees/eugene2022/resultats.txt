@@ -2,3 +2,5 @@
 6;100m haies;13.5
 127;100m haies;14.3
 6;Saut en hauteur;2.1
+41;Lancer du poids;89
+127;800m;1

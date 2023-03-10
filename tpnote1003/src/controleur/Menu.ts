@@ -26,7 +26,7 @@ export class Menu {
         return null
     }
 
-    public static gestionCompetition(competition:Decathlon): void {
+    public static gestionCompetition(competition:Decathlon | Heptathlon): void {
 
         console.log(competition.toString());
         
@@ -84,7 +84,7 @@ export class Menu {
         } while (!quitter)
     }
 
-    private static afficheClassements(competition: Decathlon): void {
+    private static afficheClassements(competition: Decathlon | Heptathlon): void {
         
         console.log("Voici le classement général : ");
         let classement = competition.getClassementGeneral();
