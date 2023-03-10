@@ -1,0 +1,47 @@
+{
+  "cSpell.words": [
+    "agregation",
+    "assobidir",
+    "assomultiple",
+    "assonature",
+    "assorole",
+    "assounidir",
+    "classechien",
+    "codepaths",
+    "compoasso",
+    "Débugage",
+    "Delambre",
+    "Délimitateurs",
+    "dord",
+    "Ecrire",
+    "fahenheit",
+    "fonc",
+    "katex",
+    "Leftrightarrow",
+    "mkdir",
+    "nbre",
+    "prec",
+    "readline",
+    "reflexgroupe",
+    "reflexhierarchie",
+    "Rightarrow",
+    "Saluteur",
+    "tglobal",
+    "tlocal",
+    "trunc",
+    "tsbuildinfo"
+  ],
+  "code-runner.executorMap": {
+    "javascript": "node",
+    "typescript": "npx ts-node"
+  },
+  "code-runner.runInTerminal": true,
+  "cSpell.enabled": false,
+  "spellright.language": [
+    "fr"
+  ],
+  "spellright.documentTypes": [
+    "latex",
+    "plaintext"
+  ]
+}
