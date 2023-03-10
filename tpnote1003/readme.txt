@@ -1,3 +1,1 @@
-Lancement : npx ts-node src/main/Application.ts
-
-Corrigé tranmis aux étudiants
+Tp Noté de Gabriel NAE
